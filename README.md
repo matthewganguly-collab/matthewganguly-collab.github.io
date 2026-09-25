@@ -2,7 +2,12 @@
 <html>
 <head>
 <title> My Cool Cat Zoe </title>
-<style> body {background-color: rgb(18,53,78)
+<style> body {background-color: rgb(18,53,78);
+    color: white;
+              }
+  h1, h2 {
+    color: rgb(249,157,27);
+    }
 </style>
 </head>
 
@@ -17,7 +22,10 @@
 <p> 2. Scratches at the door (she always wants to go outside) </p>
 <p> 3. Eats food - she is always hungry </p>
 <img src="cat-zoe2.jpg" alt="Second photo of cat" width="250">
-https://www.petco.com/category/cat/cat-food?cm_mmc=PSH%7CGGL%7COMNI%7CCC%7CNA%7CNA%7CiuBc9fK4yULWTBpAcLDW2Q%7CENT_PSH_GGL_OMNI_CC_NA_PETCO_NA_NA_09232025_COV_PUR-OMNI_TXT-BR_NA_CAT%7C0%7C0%7C0&gclsrc=aw.ds&gad_source=1&gad_campaignid=23041281303&gbraid=0AAAAAD97F15erSoDcMojZoSXRY0lCBRAM&gclid=EAIaIQobChMIoOL8r7mKlwMVFjRECB04oDlyEAAYASAAEgLja_D_BwE
+
+<h3> Attached below is a link to the store I buy food from for my cat </h3>
+<!--https://www.petco.com/category/cat/cat-food?cm_mmc=PSH%7CGGL%7COMNI%7CCC%7CNA%7CNA%7CiuBc9fK4yULWTBpAcLDW2Q%7CENT_PSH_GGL_OMNI_CC_NA_PETCO_NA_NA_09232025_COV_PUR-OMNI_TXT-BR_NA_CAT%7C0%7C0%7C0&gclsrc=aw.ds&gad_source=1&gad_campaignid=23041281303&gbraid=0AAAAAD97F15erSoDcMojZoSXRY0lCBRAM&gclid=EAIaIQobChMIoOL8r7mKlwMVFjRECB04oDlyEAAYASAAEgLja_D_BwE-->
+  <a href="https://www.petco.com/category/cat/cat-food?cm_mmc=PSH%7CGGL%7COMNI%7CCC%7CNA%7CNA%7CiuBc9fK4yULWTBpAcLDW2Q%7CENT_PSH_GGL_OMNI_CC_NA_PETCO_NA_NA_09232025_COV_PUR-OMNI_TXT-BR_NA_CAT%7C0%7C0%7C0&gclsrc=aw.ds&gad_source=1&gad_campaignid=23041281303&gbraid=0AAAAAD97F15erSoDcMojZoSXRY0lCBRAM&gclid=EAIaIQobChMIoOL8r7mKlwMVFjRECB04oDlyEAAYASAAEgLja_D_BwE">link to petco</a>
 
 </body>
 </html>
